@@ -4,9 +4,9 @@ I'm a developer working on practical systems, creative tools, and long-term pers
 Right now, I'm focused on learning and improving in a few key areas:
 
 - Game development with **Godot**
-- 3D modeling and workflow basics in **Blender**
+- 3D modeling in **Blender**
 - Command-line-first development on **Linux**
-- Building better personal infrastructure for code, content, and collaboration
+- Building **awesome things** with **great people**.
 
 ---
 
