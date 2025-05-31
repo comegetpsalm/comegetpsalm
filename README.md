@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Kyle! 👋
 
-<!--
-**waitforitloop/waitforitloop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a developer working on practical systems, creative tools, and long-term personal projects.  
+Right now, I'm focused on learning and improving in a few key areas:
 
-Here are some ideas to get you started:
+- Game development with **Godot**
+- 3D modeling and workflow basics in **Blender**
+- Command-line-first development on **Linux**
+- Building better personal infrastructure for code, content, and collaboration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Languages
+
+`Godot` · `GDScript` · `Blender` · `Git` · `Bash` · `Python` · `Markdown` · `VSCodium`
+
+---
+
+<!--### 🧩 Current Projects
+
+--- -->
+
+### 💡 About This Profile
+
+This repository exists to provide a public profile overview.  
+You can check back here for updates as projects evolve.
+
+---
+
+### 📫 Reach Me
+
+If you have a reason to reach out, feel free to open an issue or connect via project discussions.
