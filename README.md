@@ -12,7 +12,8 @@ Right now, I'm focused on learning and improving in a few key areas:
 
 ### 🛠️ Tools & Languages
 
-`Godot` · `GDScript` · `Blender` · `Git` · `Bash` · `Python` · `Markdown` · `VSCodium`
+`Godot` · `Blender` · `VSCodium` 
+`GDScript` · `Python` · `Bash`  
 
 ---
 
