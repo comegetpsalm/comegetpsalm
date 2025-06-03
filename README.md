@@ -4,6 +4,7 @@ I'm a developer working on practical systems, creative tools, and long-term pers
 Right now, I'm focused on learning and improving in a few key areas:
 
 - Game development with **Godot**
+- 2D sprites and pixel art in **Krita** and **Aseprite**
 - 3D modeling in **Blender**
 - Command-line-first development on **Linux**
 - Building **awesome things** with **great people**.
@@ -12,7 +13,7 @@ Right now, I'm focused on learning and improving in a few key areas:
 
 ### 🛠️ Tools & Languages
 
-`Godot` · `Blender` · `VSCodium` 
+`Godot` · `Blender` · `Krita` ·`Aseprite` ·`VSCodium` 
 `GDScript` · `Python` · `Bash`  
 
 ---
