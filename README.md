@@ -13,8 +13,7 @@ Right now, I'm focused on learning and improving in a few key areas:
 
 ### 🛠️ Tools & Languages
 
-`Godot` · `Blender` · `Krita` ·`Aseprite` ·`VSCodium` 
-`GDScript` · `Python` · `Bash`  
+`Godot` · `Blender` · `Krita` · `Aseprite` · `VSCodium` · `GDScript` · `Python` · `Bash`  
 
 ---
 
