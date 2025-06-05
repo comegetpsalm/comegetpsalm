@@ -1,4 +1,4 @@
-# Hi, I'm Dr. Pixel Pusher! 👋
+# Hi, I'm Kyle! 👋
 
 I'm a developer working on practical systems, creative tools, and long-term personal projects.  
 Right now, I'm focused on learning and improving in a few key areas:
