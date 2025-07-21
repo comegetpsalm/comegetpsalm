@@ -35,13 +35,13 @@ ability to interact with and manipulate the game in creative ways.
 
 Uncover burried clues to gain a glimpse into past events, reveal hidden evidence of what the 
 story *doesn't* tell you. 
-
 With every truth and secret discovered, comes a chance to influence 
 and impact the outcome in ways that may surprise you. 
-
 Curiosity may have killed the cat, but you aren't a cat.
 
-*spspspspspsp* ..Are you?
+*spspspspspsp* 
+
+..Are you?
 
 ### 💡 About This Profile
 
