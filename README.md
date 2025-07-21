@@ -9,9 +9,14 @@ Right now, I'm focused on learning and improving in a few key areas:
 
 ---
 
-### 🛠️ Tools & Languages
+### 🛠️ Software, Languages & Tools
 
-`Godot` · `Blender` · `Krita` · `Aseprite` · `VSCodium` · `GDScript` · `Python` · `Bash`  
+`Godot` · `Blender` · `Krita` · `Aseprite` 
+
+`GDScript` · `Python` · `Bash` 
+
+`VSCodium` · `Linux` 
+
 
 ---
 
