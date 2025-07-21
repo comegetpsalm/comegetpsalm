@@ -6,7 +6,6 @@ Right now, I'm focused on learning and improving in a few key areas:
 - Game development with **Godot**
 - 2D sprites and pixel art in **Krita** and **Aseprite**
 - 3D modeling in **Blender**
-- Command-line-first development on **Linux**
 
 ---
 
@@ -21,6 +20,7 @@ Right now, I'm focused on learning and improving in a few key areas:
 "Something Lost" 
 
 An interactive psychological thriller game in visual novel format.
+
 This project aims to push the known limits of what a visual novel is and can be.
 
 While already built on a rich and compelling story that offers inexplicable 
